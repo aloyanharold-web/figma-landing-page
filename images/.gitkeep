@@ -1,0 +1,7 @@
+# This file ensures the images directory is tracked by git
+# Add your Figma design assets here:
+# - background-image.png
+# - overlay-image.png  
+# - icon-1.png
+# - icon-2.png
+# - icon-3.png
